@@ -1,0 +1,54 @@
+
+.con{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-image: url("E:\MyProject\App - FAC\src\welcome1.png");
+    background-size:cover;
+    overflow: hidden;
+        /* margin-top: 100px;
+        margin-left: 400px; */
+    
+}
+.con .shop{
+    color: rgb(24, 23, 23);
+    
+    
+}
+
+/* .rent{
+    width: 10%;
+    padding: 10px;
+    background-color: #121111;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    margin: 350px 60px;
+    transition: .3s ease all;
+    margin-left: 60px; */
+
+.shop{
+    width: 10%;
+    padding: 10px;
+    background-color: rgb(157, 141, 141);
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    font: 1em sans-serif;
+    /*margin: 350px 160px;*/
+    transition: .3s ease all;
+    margin-left: 22 0px;
+    margin-top: 520px;
+    
+}
+.ad{
+    margin-left:10px ;
+    margin-top: 50px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 700;
+}
+.ad:hover{
+    color:rgb(232, 73, 5);
+  }

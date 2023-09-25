@@ -1,0 +1,55 @@
+/* src/LoginPage.css (create this file in the same directory as your LoginPage.js) */
+
+.login-page {
+    margin-top: 150px;
+    width: 500px;
+    margin-left: 600px;
+    padding: 100px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    background-color: #a59f9f;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  .form{
+    margin-bottom :30%;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    height: 100px;
+
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 60px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .sumit{
+    width: 100%;
+    padding: 10px;
+    background-color: #50565c;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .sumit:hover {
+    background-color: #101011;
+  }
+
+  

@@ -1,0 +1,134 @@
+/* .img{
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    background-image: url("E:\MyProject\App - FAC\src\welcome1.png");
+    background-size:cover;
+     margin-top: 100px;
+     margin-left: 400px; */
+     
+    /* margin-top: 5%;
+    margin-left:500px;
+    width: 1000px;
+    height: 500px;
+    background-image: url("https://s7d2.scene7.com/is/image/nu/23_AUGWK3_US_RENT_SEASONAL_UNAUTH_HERO_LS?qlt=60&fmt=pjpg&scl=1");
+    object-fit:contain;
+    display: flex; */
+    /* width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    overflow-y: scroll; */
+
+    
+/* }
+.img1{
+    background-color: black;
+    align-items: center;
+    width: 100px; */
+
+/* .home-content{
+    width: 90%;
+    height: 70%;
+    background-color: red;
+    overflow-y: scroll;
+} */
+.card {
+    position: relative;
+    margin-top: 4%;
+    margin-left: 11%;
+    width: 88vw;
+    height: 90vh;
+    background: linear-gradient(-45deg, #dee3e4 0%, #ddd5d9 100% );
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    overflow:scroll;
+    overflow: hidden;
+    justify-content: center;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
+  img{
+   
+    width: 100%;
+    height: 100%;
+  }
+  .r{
+    width: 30%;
+    padding: 10px;
+    background-color: #121111;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 14px;
+    margin: 10px 0;
+    transition: .3s ease all;
+    align-items: center;
+   margin-bottom: 100px;
+   margin-left: 700px;
+   
+
+  }
+  .s{
+    width: 30%;
+    padding: 5px;
+    background-color: #121111;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: .3s ease all;
+    align-items: center;
+    margin-top: -100px;
+   margin-bottom: 200px;
+   margin-left: 1000px;
+  }
+  
+  
+   /* .card svg {
+    width: 48px;
+    fill: #333;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
+  
+  .card:hover {
+    transform: rotate(-5deg) scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card__content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    width: 100%;
+    height: 100%;
+    padding: 90px;
+    box-sizing: border-box;
+    background-color: #fff;
+    opacity: 0;
+    transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
+  }
+  
+  .card:hover .card__content {
+    transform: translate(-50%, -50%) rotate(0deg);
+    opacity: 1;
+  }
+  
+  .card__title {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+    font-weight: 700;
+  }
+  
+  
+  
+  
+  .card:hover svg {
+    scale: 0;
+    transform: rotate(-45deg);
+  }  */
+   
